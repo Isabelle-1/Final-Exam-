@@ -1,6 +1,3 @@
-# Final-Exam-
-MULTIPLE CHOICE ANSWERS
-
 Question 1. What is Dependency Injection? 
 a.) A design pattern which implements Inversion of Control for software applications.
 
@@ -14,7 +11,9 @@ ANSWER
 A
 
 
+
 Question 2. Repository is used for?
+
 a.) Getting data from the Database
 
 b.)Connect HTML with Java
@@ -25,6 +24,7 @@ d.)None of the Above
 
 ANSWER
 D
+
 
 
 Question 3. What is Bean in Spring? 
@@ -38,6 +38,7 @@ d.) Container
 
 ANSWER 
 B
+
 
 
 Question 4. What are different types of Autowire? 
@@ -55,6 +56,7 @@ ANSWER
 E
 
 
+
 Question 5. What is default Web server used in Spring boot Application?
 a.) Jetty
 
@@ -64,4 +66,3 @@ c.) JSP.
 
 ANSWER 
 B
-
